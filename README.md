@@ -26,6 +26,11 @@ I enjoy learning new technologies and turning ideas into practical projects.
 - Adobe Photoshop
 - Canva
 
+
+## 🛠️ Technologies & Tools
+
+![My Skills](https://skillicons.dev/icons?i=python,html,css,js,mysql,linux,git,github,vscode,ps,ai)
+
 ## 📚 Currently Learning
 
 - Python Programming
